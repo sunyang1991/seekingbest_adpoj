@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>treedata</servlet-name>
+    <servlet-class>com.sy.servlet.treedata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>datagrid</servlet-name>
+    <servlet-class>com.sy.servlet.datagrid</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>chartdata</servlet-name>
+    <servlet-class>com.sy.servlet.chartdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>piechartdata</servlet-name>
+    <servlet-class>com.sy.servlet.piechartdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>optree</servlet-name>
+    <servlet-class>com.sy.servlet.optree</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>middata</servlet-name>
+    <servlet-class>com.sy.servlet.middata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>addnewcfg</servlet-name>
+    <servlet-class>com.sy.servlet.addnewcfg</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>optdata</servlet-name>
+    <servlet-class>com.sy.servlet.optdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectitem</servlet-name>
+    <servlet-class>com.sy.servlet.selectitem</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>itemdata</servlet-name>
+    <servlet-class>com.sy.servlet.itemdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>selectbus</servlet-name>
+    <servlet-class>com.sy.servlet.selectbus</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>getweek</servlet-name>
+    <servlet-class>com.sy.servlet.getweek</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>weekdata</servlet-name>
+    <servlet-class>com.sy.servlet.weekdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>weekset</servlet-name>
+    <servlet-class>com.sy.servlet.weekset</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NXmasdata</servlet-name>
+    <servlet-class>com.sy.servlet.NXmasdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Xmasdata</servlet-name>
+    <servlet-class>com.sy.servlet.Xmasdata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NXmasset</servlet-name>
+    <servlet-class>com.sy.servlet.NXmasset</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Xmasset</servlet-name>
+    <servlet-class>com.sy.servlet.Xmasset</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>savedata</servlet-name>
+    <servlet-class>com.sy.servlet.savedata</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result1</servlet-name>
+    <servlet-class>com.sy.servlet.result1</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result2</servlet-name>
+    <servlet-class>com.sy.servlet.result2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result3</servlet-name>
+    <servlet-class>com.sy.servlet.result3</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result4</servlet-name>
+    <servlet-class>com.sy.servlet.result4</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result5</servlet-name>
+    <servlet-class>com.sy.servlet.result5</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result6</servlet-name>
+    <servlet-class>com.sy.servlet.result6</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>result7</servlet-name>
+    <servlet-class>com.sy.servlet.result7</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>treegrid</servlet-name>
+    <servlet-class>com.sy.servlet.treegrid</servlet-class>
+  </servlet>
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>treedata</servlet-name>
+    <url-pattern>/treedata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>datagrid</servlet-name>
+    <url-pattern>/datagrid</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>chartdata</servlet-name>
+    <url-pattern>/chartdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>piechartdata</servlet-name>
+    <url-pattern>/piechartdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>optree</servlet-name>
+    <url-pattern>/optree</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>middata</servlet-name>
+    <url-pattern>/middata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addnewcfg</servlet-name>
+    <url-pattern>/addnewcfg</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>optdata</servlet-name>
+    <url-pattern>/optdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectitem</servlet-name>
+    <url-pattern>/selectitem</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>itemdata</servlet-name>
+    <url-pattern>/itemdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>selectbus</servlet-name>
+    <url-pattern>/selectbus</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>getweek</servlet-name>
+    <url-pattern>/getweek</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>weekdata</servlet-name>
+    <url-pattern>/weekdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>weekset</servlet-name>
+    <url-pattern>/weekset</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NXmasdata</servlet-name>
+    <url-pattern>/NXmasdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Xmasdata</servlet-name>
+    <url-pattern>/Xmasdata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NXmasset</servlet-name>
+    <url-pattern>/NXmasset</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Xmasset</servlet-name>
+    <url-pattern>/Xmasset</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>savedata</servlet-name>
+    <url-pattern>/savedata</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result1</servlet-name>
+    <url-pattern>/result1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result2</servlet-name>
+    <url-pattern>/result2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result3</servlet-name>
+    <url-pattern>/result3</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result4</servlet-name>
+    <url-pattern>/result4</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result5</servlet-name>
+    <url-pattern>/result5</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result6</servlet-name>
+    <url-pattern>/result6</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>result7</servlet-name>
+    <url-pattern>/result7</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>treegrid</servlet-name>
+    <url-pattern>/treegrid</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
